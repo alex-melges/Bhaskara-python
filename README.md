@@ -6,7 +6,6 @@ A equação tem a forma:
 
 ax² + bx + c = 0
 
-
 O programa solicita ao usuário que informe os coeficientes `a`, `b` e `c`, valida se os valores são reais e verifica se `a` é diferente de zero (condição necessária para que a equação seja realmente do 2º grau). Em seguida, ele calcula o discriminante (Δ) e as raízes, exibindo as soluções reais ou complexas, conforme o valor de Δ.
 
 ---
@@ -42,3 +41,8 @@ Discriminante (Δ) = 1.0
 As raízes reais são:
 x1 = 2.0
 x2 = 1.0
+```
+
+### 🧑‍💻 Tecnologias Usadas
+- Python 3.x
+- Matemática (Biblioteca padrão math)
